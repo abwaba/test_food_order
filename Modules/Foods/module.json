@@ -1,0 +1,13 @@
+{
+    "name": "Foods",
+    "alias": "foods",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Foods\\Providers\\FoodsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
